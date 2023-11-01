@@ -1,0 +1,2 @@
+# bbcompat
+bbcompat pkgbuild
